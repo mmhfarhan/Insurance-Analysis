@@ -1,0 +1,615 @@
+ID,Gender,Marital_status,Dependents,Education,Self_Employed,ApplicantIncome,PremiumAmount,Maturity_Term,Credit_History,Branch,Loan_Status,Benefits
+IP001002,Male,No,0,Graduate,No,5849,,36,1,Urban,Y,
+IP001003,Male,Yes,1,Graduate,No,4583,128,36,1,Rural,N,239
+IP001005,Male,Yes,0,Graduate,Yes,3000,66,36,1,Urban,Y,87
+IP001006,Male,Yes,0,Not Graduate,No,2583,120,36,1,Urban,Y,230
+IP001008,Male,No,0,Graduate,No,6000,141,36,1,Urban,Y,272
+IP001011,Male,Yes,2,Graduate,Yes,5417,267,36,1,Urban,Y,377
+IP001013,Male,Yes,0,Not Graduate,No,2333,95,36,1,Urban,Y,207
+IP001014,Male,Yes,3+,Graduate,No,3036,158,36,0,Semiurban,N,279
+IP001018,Male,Yes,2,Graduate,No,4006,168,36,1,Urban,Y,279
+IP001020,Male,Yes,1,Graduate,No,12841,349,36,1,Semiurban,N,5720
+IP001024,Male,Yes,2,Graduate,No,3200,70,36,1,Urban,Y,100
+IP001027,Male,Yes,2,Graduate,,2500,109,36,1,Urban,Y,202
+IP001028,Male,Yes,2,Graduate,No,3073,200,36,1,Urban,Y,300
+IP001029,Male,No,0,Graduate,No,1853,114,36,1,Rural,N,227
+IP001030,Male,Yes,2,Graduate,No,1299,17,12,1,Urban,Y,27
+IP001032,Male,No,0,Graduate,No,4950,125,36,1,Urban,Y,237
+IP001034,Male,No,1,Not Graduate,No,3596,100,24,,Urban,Y,120
+IP001036,Female,No,0,Graduate,No,3510,76,36,0,Urban,N,107
+IP001038,Male,Yes,0,Not Graduate,No,4887,133,36,1,Rural,N,255
+IP001041,Male,Yes,0,Graduate,,2600,115,,1,Urban,Y,227
+IP001043,Male,Yes,0,Not Graduate,No,7660,104,36,0,Urban,N,207
+IP001046,Male,Yes,1,Graduate,No,5955,315,36,1,Urban,Y,527
+IP001047,Male,Yes,0,Not Graduate,No,2600,116,36,0,Semiurban,N,227
+IP001050,,Yes,2,Not Graduate,No,3365,112,36,0,Rural,N,223
+IP001052,Male,Yes,1,Graduate,,3717,151,36,,Semiurban,N,272
+IP001066,Male,Yes,0,Graduate,Yes,9560,191,36,1,Semiurban,Y,220
+IP001068,Male,Yes,0,Graduate,No,2799,122,36,1,Semiurban,Y,233
+IP001073,Male,Yes,2,Not Graduate,No,4226,110,36,1,Urban,Y,220
+IP001086,Male,No,0,Not Graduate,No,1442,35,36,1,Urban,N,57
+IP001087,Female,No,2,Graduate,,3750,120,36,1,Semiurban,Y,230
+IP001091,Male,Yes,1,Graduate,,4166,201,36,,Urban,N,302
+IP001095,Male,No,0,Graduate,No,3167,74,36,1,Urban,N,107
+IP001097,Male,No,1,Graduate,Yes,4692,106,36,1,Rural,N,207
+IP001098,Male,Yes,0,Graduate,No,3500,114,36,1,Semiurban,Y,227
+IP001100,Male,No,3+,Graduate,No,12500,320,36,1,Rural,N,530
+IP001106,Male,Yes,0,Graduate,No,2275,,36,1,Urban,Y,
+IP001109,Male,Yes,0,Graduate,No,1828,100,,0,Urban,N,120
+IP001112,Female,Yes,0,Graduate,No,3667,144,36,1,Semiurban,Y,277
+IP001114,Male,No,0,Graduate,No,4166,184,36,1,Urban,Y,297
+IP001116,Male,No,0,Not Graduate,No,3748,110,36,1,Semiurban,Y,220
+IP001119,Male,No,0,Graduate,No,3600,80,36,1,Urban,N,100
+IP001120,Male,No,0,Graduate,No,1800,47,36,1,Urban,Y,112
+IP001123,Male,Yes,0,Graduate,No,2400,75,36,,Urban,Y,111
+IP001131,Male,Yes,0,Graduate,No,3941,134,36,1,Semiurban,Y,257
+IP001136,Male,Yes,0,Not Graduate,Yes,4695,96,,1,Urban,Y,207
+IP001137,Female,No,0,Graduate,No,3410,88,,1,Urban,Y,106
+IP001138,Male,Yes,1,Graduate,No,5649,44,36,1,Urban,Y,77
+IP001144,Male,Yes,0,Graduate,No,5821,144,36,1,Urban,Y,190
+IP001146,Female,Yes,0,Graduate,No,2645,120,36,0,Urban,N,230
+IP001151,Female,No,0,Graduate,No,4000,144,36,1,Semiurban,Y,277
+IP001155,Female,Yes,0,Not Graduate,No,1928,100,36,1,Semiurban,Y,120
+IP001157,Female,No,0,Graduate,No,3086,120,36,1,Semiurban,Y,230
+IP001164,Female,No,0,Graduate,No,4230,112,36,1,Semiurban,N,223
+IP001179,Male,Yes,2,Graduate,No,4616,134,36,1,Urban,N,257
+IP001186,Female,Yes,1,Graduate,Yes,11500,286,36,0,Urban,N,397
+IP001194,Male,Yes,2,Graduate,No,2708,97,36,1,Semiurban,Y,207
+IP001195,Male,Yes,0,Graduate,No,2132,96,36,1,Semiurban,Y,207
+IP001197,Male,Yes,0,Graduate,No,3366,135,36,1,Rural,N,257
+IP001198,Male,Yes,1,Graduate,No,8080,180,36,1,Urban,Y,290
+IP001199,Male,Yes,2,Not Graduate,No,3357,144,36,1,Urban,Y,277
+IP001205,Male,Yes,0,Graduate,No,2500,120,36,1,Urban,Y,230
+IP001206,Male,Yes,3+,Graduate,No,3029,99,36,1,Urban,Y,120
+IP001207,Male,Yes,0,Not Graduate,Yes,2609,165,18,0,Rural,N,277
+IP001213,Male,Yes,1,Graduate,No,4945,,36,0,Rural,N,
+IP001222,Female,No,0,Graduate,No,4166,116,36,0,Semiurban,N,227
+IP001225,Male,Yes,0,Graduate,No,5726,258,36,1,Semiurban,N,379
+IP001228,Male,No,0,Not Graduate,No,3200,126,18,0,Urban,N,237
+IP001233,Male,Yes,1,Graduate,No,10750,312,36,1,Urban,Y,523
+IP001238,Male,Yes,3+,Not Graduate,Yes,7100,125,6,1,Urban,Y,237
+IP001241,Female,No,0,Graduate,No,4300,136,36,0,Semiurban,N,257
+IP001243,Male,Yes,0,Graduate,No,3208,172,36,1,Urban,Y,273
+IP001245,Male,Yes,2,Not Graduate,Yes,1875,97,36,1,Semiurban,Y,207
+IP001248,Male,No,0,Graduate,No,3500,81,3,1,Semiurban,Y,92
+IP001250,Male,Yes,3+,Not Graduate,No,4755,95,,0,Semiurban,N,207
+IP001253,Male,Yes,3+,Graduate,Yes,5266,187,36,1,Semiurban,Y,297
+IP001255,Male,No,0,Graduate,No,3750,113,48,1,Urban,N,225
+IP001256,Male,No,0,Graduate,No,3750,176,36,1,Urban,N,277
+IP001259,Male,Yes,1,Graduate,Yes,1000,110,36,1,Urban,N,220
+IP001263,Male,Yes,3+,Graduate,No,3167,180,3,0,Semiurban,N,290
+IP001264,Male,Yes,3+,Not Graduate,Yes,3333,130,36,,Semiurban,Y,250
+IP001265,Female,No,0,Graduate,No,3846,111,36,1,Semiurban,Y,222
+IP001266,Male,Yes,1,Graduate,Yes,2395,,36,1,Semiurban,Y,
+IP001267,Female,Yes,2,Graduate,No,1378,167,36,1,Urban,N,277
+IP001273,Male,Yes,0,Graduate,No,6000,265,36,,Semiurban,N,377
+IP001275,Male,Yes,1,Graduate,No,3988,50,24,1,Urban,Y,70
+IP001279,Male,No,0,Graduate,No,2366,136,36,1,Semiurban,Y,257
+IP001280,Male,Yes,2,Not Graduate,No,3333,99,36,,Semiurban,Y,201
+IP001282,Male,Yes,0,Graduate,No,2500,104,36,1,Semiurban,Y,207
+IP001289,Male,No,0,Graduate,No,8566,210,36,1,Urban,Y,320
+IP001310,Male,Yes,0,Graduate,No,5695,175,36,1,Semiurban,Y,277
+IP001316,Male,Yes,0,Graduate,No,2958,131,36,1,Semiurban,Y,252
+IP001318,Male,Yes,2,Graduate,No,6250,188,18,1,Semiurban,Y,299
+IP001319,Male,Yes,2,Not Graduate,No,3273,81,36,1,Urban,Y,112
+IP001322,Male,No,0,Graduate,No,4133,122,36,1,Semiurban,Y,233
+IP001325,Male,No,0,Not Graduate,No,3620,25,12,1,Semiurban,Y,37
+IP001326,Male,No,0,Graduate,,6782,,36,,Urban,N,
+IP001327,Female,Yes,0,Graduate,No,2484,137,36,1,Semiurban,Y,257
+IP001333,Male,Yes,0,Graduate,No,1977,50,36,1,Semiurban,Y,70
+IP001334,Male,Yes,0,Not Graduate,No,4188,115,18,1,Semiurban,Y,227
+IP001343,Male,Yes,0,Graduate,No,1759,131,36,1,Semiurban,Y,252
+IP001345,Male,Yes,2,Not Graduate,No,4288,133,18,1,Urban,Y,255
+IP001349,Male,No,0,Graduate,No,4843,151,36,1,Semiurban,Y,272
+IP001350,Male,Yes,,Graduate,No,13650,,36,1,Urban,Y,
+IP001356,Male,Yes,0,Graduate,No,4652,,36,1,Semiurban,Y,
+IP001357,Male,,,Graduate,No,3816,160,36,1,Urban,Y,270
+IP001367,Male,Yes,1,Graduate,No,3052,100,36,1,Urban,Y,120
+IP001369,Male,Yes,2,Graduate,No,11417,225,36,1,Urban,Y,337
+IP001370,Male,No,0,Not Graduate,,7333,120,36,1,Rural,N,230
+IP001379,Male,Yes,2,Graduate,No,3800,216,36,0,Urban,N,327
+IP001384,Male,Yes,3+,Not Graduate,No,2071,94,48,1,Semiurban,Y,207
+IP001385,Male,No,0,Graduate,No,5316,136,36,1,Urban,Y,257
+IP001387,Female,Yes,0,Graduate,,2929,139,36,1,Semiurban,Y,233
+IP001391,Male,Yes,0,Not Graduate,No,3572,152,,0,Rural,N,273
+IP001392,Female,No,1,Graduate,Yes,7451,,36,1,Semiurban,Y,
+IP001398,Male,No,0,Graduate,,5050,118,36,1,Semiurban,Y,229
+IP001401,Male,Yes,1,Graduate,No,14583,185,18,1,Rural,Y,297
+IP001404,Female,Yes,0,Graduate,No,3167,154,36,1,Semiurban,Y,277
+IP001405,Male,Yes,1,Graduate,No,2214,85,36,,Urban,Y,107
+IP001421,Male,Yes,0,Graduate,No,5568,175,36,1,Rural,N,277
+IP001422,Female,No,0,Graduate,No,10408,259,36,1,Urban,Y,370
+IP001426,Male,Yes,,Graduate,No,5667,180,36,1,Rural,Y,290
+IP001430,Female,No,0,Graduate,No,4166,44,36,1,Semiurban,Y,77
+IP001431,Female,No,0,Graduate,No,2137,137,36,0,Semiurban,Y,257
+IP001432,Male,Yes,2,Graduate,No,2957,81,36,1,Semiurban,Y,122
+IP001439,Male,Yes,0,Not Graduate,No,4300,194,36,1,Rural,Y,220
+IP001443,Female,No,0,Graduate,No,3692,93,36,,Rural,Y,205
+IP001448,,Yes,3+,Graduate,No,23803,370,36,1,Rural,Y,570
+IP001449,Male,No,0,Graduate,No,3865,,36,1,Rural,Y,
+IP001451,Male,Yes,1,Graduate,Yes,10513,160,18,0,Urban,N,270
+IP001465,Male,Yes,0,Graduate,No,6080,182,36,,Rural,N,293
+IP001469,Male,No,0,Graduate,Yes,20166,650,48,,Urban,Y,770
+IP001473,Male,No,0,Graduate,No,2014,74,36,1,Urban,Y,127
+IP001478,Male,No,0,Graduate,No,2718,70,36,1,Semiurban,Y,130
+IP001482,Male,Yes,0,Graduate,Yes,3459,25,12,1,Semiurban,Y,37
+IP001487,Male,No,0,Graduate,No,4895,102,36,1,Semiurban,Y,203
+IP001488,Male,Yes,3+,Graduate,No,4000,290,36,1,Semiurban,N,370
+IP001489,Female,Yes,0,Graduate,No,4583,84,36,1,Rural,N,117
+IP001491,Male,Yes,2,Graduate,Yes,3316,88,36,1,Urban,Y,109
+IP001492,Male,No,0,Graduate,No,14999,242,36,0,Semiurban,N,373
+IP001493,Male,Yes,2,Not Graduate,No,4200,129,36,1,Rural,N,2320
+IP001497,Male,Yes,2,Graduate,No,5042,185,36,1,Rural,N,297
+IP001498,Male,No,0,Graduate,No,5417,168,36,1,Urban,Y,279
+IP001504,Male,No,0,Graduate,Yes,6950,175,18,1,Semiurban,Y,277
+IP001507,Male,Yes,0,Graduate,No,2698,122,36,1,Semiurban,Y,233
+IP001508,Male,Yes,2,Graduate,No,11757,187,18,1,Urban,Y,297
+IP001514,Female,Yes,0,Graduate,No,2330,100,36,1,Semiurban,Y,120
+IP001516,Female,Yes,2,Graduate,No,14866,70,36,1,Urban,Y,70
+IP001518,Male,Yes,1,Graduate,No,1538,30,36,1,Urban,Y,70
+IP001519,Female,No,0,Graduate,No,10000,225,36,1,Rural,N,337
+IP001520,Male,Yes,0,Graduate,No,4860,125,36,1,Semiurban,Y,237
+IP001528,Male,No,0,Graduate,No,6277,118,36,0,Rural,N,229
+IP001529,Male,Yes,0,Graduate,Yes,2577,152,36,1,Rural,Y,273
+IP001531,Male,No,0,Graduate,No,9166,244,36,1,Urban,N,377
+IP001532,Male,Yes,2,Not Graduate,No,2281,113,36,1,Rural,N,225
+IP001535,Male,No,0,Graduate,No,3254,50,36,1,Urban,Y,80
+IP001536,Male,Yes,3+,Graduate,No,39999,600,18,0,Semiurban,Y,700
+IP001541,Male,Yes,1,Graduate,No,6000,160,36,,Rural,Y,270
+IP001543,Male,Yes,1,Graduate,No,9538,187,36,1,Urban,Y,297
+IP001546,Male,No,0,Graduate,,2980,120,36,1,Rural,Y,230
+IP001552,Male,Yes,0,Graduate,No,4583,255,36,1,Semiurban,Y,377
+IP001560,Male,Yes,0,Not Graduate,No,1863,98,36,1,Semiurban,Y,209
+IP001562,Male,Yes,0,Graduate,No,7933,275,36,1,Urban,N,377
+IP001565,Male,Yes,1,Graduate,No,3089,121,36,0,Semiurban,N,232
+IP001570,Male,Yes,2,Graduate,No,4167,158,36,1,Rural,Y,279
+IP001572,Male,Yes,0,Graduate,No,9323,75,18,1,Urban,Y,107
+IP001574,Male,Yes,0,Graduate,No,3707,182,,1,Rural,Y,293
+IP001577,Female,Yes,0,Graduate,No,4583,112,36,1,Rural,N,223
+IP001578,Male,Yes,0,Graduate,No,2439,129,36,1,Rural,Y,2320
+IP001579,Male,No,0,Graduate,No,2237,63,48,0,Semiurban,N,115
+IP001580,Male,Yes,2,Graduate,No,8000,200,36,1,Semiurban,Y,300
+IP001581,Male,Yes,0,Not Graduate,,1820,95,36,1,Rural,Y,207
+IP001585,,Yes,3+,Graduate,No,51763,700,3,1,Urban,Y,700
+IP001586,Male,Yes,3+,Not Graduate,No,3522,81,18,1,Rural,N,99
+IP001594,Male,Yes,0,Graduate,No,5708,187,36,1,Semiurban,Y,297
+IP001603,Male,Yes,0,Not Graduate,Yes,4344,87,36,1,Semiurban,N,111
+IP001606,Male,Yes,0,Graduate,No,3497,116,36,1,Rural,Y,227
+IP001608,Male,Yes,2,Graduate,No,2045,101,36,1,Rural,Y,202
+IP001610,Male,Yes,3+,Graduate,No,5516,495,36,0,Semiurban,N,7207
+IP001616,Male,Yes,1,Graduate,No,3750,116,36,1,Semiurban,Y,227
+IP001630,Male,No,0,Not Graduate,No,2333,102,48,0,Urban,N,203
+IP001633,Male,Yes,1,Graduate,No,6400,180,36,0,Urban,N,290
+IP001634,Male,No,0,Graduate,No,1916,67,36,,Rural,N,177
+IP001636,Male,Yes,0,Graduate,No,4600,73,18,1,Semiurban,Y,105
+IP001637,Male,Yes,1,Graduate,No,33846,260,36,1,Semiurban,N,370
+IP001639,Female,Yes,0,Graduate,No,3625,108,36,1,Semiurban,Y,209
+IP001640,Male,Yes,0,Graduate,Yes,39147,120,36,1,Semiurban,Y,230
+IP001641,Male,Yes,1,Graduate,Yes,2178,66,3,0,Rural,N,10
+IP001643,Male,Yes,0,Graduate,No,2383,58,36,,Rural,Y,109
+IP001644,,Yes,0,Graduate,Yes,674,168,36,1,Rural,Y,279
+IP001647,Male,Yes,0,Graduate,No,9328,188,18,1,Rural,Y,299
+IP001653,Male,No,0,Not Graduate,No,4885,48,36,1,Rural,Y,119
+IP001656,Male,No,0,Graduate,No,12000,164,36,1,Semiurban,N,277
+IP001657,Male,Yes,0,Not Graduate,No,6033,160,36,1,Urban,N,270
+IP001658,Male,No,0,Graduate,No,3858,76,36,1,Semiurban,Y,107
+IP001664,Male,No,0,Graduate,No,4191,120,36,1,Rural,Y,230
+IP001665,Male,Yes,1,Graduate,No,3125,170,36,1,Semiurban,N,270
+IP001666,Male,No,0,Graduate,No,8333,187,36,1,Rural,Y,297
+IP001669,Female,No,0,Not Graduate,No,1907,120,,1,Urban,Y,230
+IP001671,Female,Yes,0,Graduate,No,3416,113,36,,Semiurban,Y,225
+IP001673,Male,No,0,Graduate,Yes,11000,83,36,1,Urban,N,105
+IP001674,Male,Yes,1,Not Graduate,No,2600,90,36,1,Semiurban,Y,120
+IP001677,Male,No,2,Graduate,No,4923,166,36,0,Semiurban,Y,277
+IP001682,Male,Yes,3+,Not Graduate,No,3992,,18,1,Urban,N,
+IP001688,Male,Yes,1,Not Graduate,No,3500,135,36,1,Urban,Y,257
+IP001691,Male,Yes,2,Not Graduate,No,3917,124,36,1,Semiurban,Y,237
+IP001692,Female,No,0,Not Graduate,No,4408,120,36,1,Semiurban,Y,230
+IP001693,Female,No,0,Graduate,No,3244,80,36,1,Urban,Y,110
+IP001698,Male,No,0,Not Graduate,No,3975,55,36,1,Rural,Y,97
+IP001699,Male,No,0,Graduate,No,2479,59,36,1,Urban,Y,720
+IP001702,Male,No,0,Graduate,No,3418,127,36,1,Semiurban,N,237
+IP001708,Female,No,0,Graduate,No,10000,214,36,1,Semiurban,N,327
+IP001711,Male,Yes,3+,Graduate,No,3430,128,36,0,Semiurban,N,239
+IP001713,Male,Yes,1,Graduate,Yes,7787,240,36,1,Urban,Y,370
+IP001715,Male,Yes,3+,Not Graduate,Yes,5703,130,36,1,Rural,Y,250
+IP001716,Male,Yes,0,Graduate,No,3173,137,36,1,Urban,Y,257
+IP001720,Male,Yes,3+,Not Graduate,No,3850,100,36,1,Semiurban,Y,120
+IP001722,Male,Yes,0,Graduate,No,150,135,36,1,Rural,N,257
+IP001726,Male,Yes,0,Graduate,No,3727,131,36,1,Semiurban,Y,252
+IP001732,Male,Yes,2,Graduate,,5000,72,36,0,Semiurban,N,103
+IP001734,Female,Yes,2,Graduate,No,4283,127,36,,Semiurban,Y,237
+IP001736,Male,Yes,0,Graduate,No,2221,60,36,0,Urban,N,100
+IP001743,Male,Yes,2,Graduate,No,4009,116,36,1,Semiurban,Y,227
+IP001744,Male,No,0,Graduate,No,2971,144,36,1,Semiurban,Y,277
+IP001749,Male,Yes,0,Graduate,No,7578,175,,1,Semiurban,Y,277
+IP001750,Male,Yes,0,Graduate,No,6250,128,36,1,Semiurban,Y,239
+IP001751,Male,Yes,0,Graduate,No,3250,170,36,1,Rural,N,270
+IP001754,Male,Yes,,Not Graduate,Yes,4735,138,36,1,Urban,N,259
+IP001758,Male,Yes,2,Graduate,No,6250,210,36,1,Semiurban,Y,320
+IP001760,Male,,,Graduate,No,4758,158,48,1,Semiurban,Y,279
+IP001761,Male,No,0,Graduate,Yes,6400,200,36,1,Rural,Y,300
+IP001765,Male,Yes,1,Graduate,No,2491,104,36,1,Semiurban,Y,207
+IP001768,Male,Yes,0,Graduate,,3716,42,18,1,Rural,Y,83
+IP001770,Male,No,0,Not Graduate,No,3189,120,,1,Rural,Y,230
+IP001776,Female,No,0,Graduate,No,8333,280,36,1,Semiurban,Y,390
+IP001778,Male,Yes,1,Graduate,No,3155,140,36,1,Semiurban,Y,270
+IP001784,Male,Yes,1,Graduate,No,5500,170,36,1,Rural,Y,270
+IP001786,Male,Yes,0,Graduate,,5746,255,36,,Urban,N,377
+IP001788,Female,No,0,Graduate,Yes,3463,122,36,,Urban,Y,233
+IP001790,Female,No,1,Graduate,No,3812,112,36,1,Rural,Y,223
+IP001792,Male,Yes,1,Graduate,No,3315,96,36,1,Semiurban,Y,127
+IP001798,Male,Yes,2,Graduate,No,5819,120,36,1,Rural,Y,230
+IP001800,Male,Yes,1,Not Graduate,No,2510,140,18,1,Urban,N,270
+IP001806,Male,No,0,Graduate,No,2965,155,6,1,Urban,Y,277
+IP001807,Male,Yes,2,Graduate,Yes,6250,108,36,1,Rural,Y,209
+IP001811,Male,Yes,0,Not Graduate,No,3406,123,36,1,Semiurban,Y,235
+IP001813,Male,No,0,Graduate,Yes,6050,120,18,1,Urban,N,230
+IP001814,Male,Yes,2,Graduate,No,9703,112,36,1,Urban,Y,223
+IP001819,Male,Yes,1,Not Graduate,No,6608,137,18,1,Urban,Y,257
+IP001824,Male,Yes,1,Graduate,No,2882,123,48,1,Semiurban,Y,235
+IP001825,Male,Yes,0,Graduate,No,1809,90,36,1,Urban,Y,120
+IP001835,Male,Yes,0,Not Graduate,No,1668,201,36,0,Semiurban,N,302
+IP001836,Female,No,2,Graduate,No,3427,138,36,1,Urban,N,259
+IP001841,Male,No,0,Not Graduate,Yes,2583,104,36,1,Rural,Y,207
+IP001843,Male,Yes,1,Not Graduate,No,2661,279,18,1,Semiurban,Y,370
+IP001844,Male,No,0,Graduate,Yes,16250,192,36,0,Urban,N,223
+IP001846,Female,No,3+,Graduate,No,3083,255,36,1,Rural,Y,377
+IP001849,Male,No,0,Not Graduate,No,6045,115,36,0,Rural,N,227
+IP001854,Male,Yes,3+,Graduate,No,5250,94,36,1,Urban,N,127
+IP001859,Male,Yes,0,Graduate,No,14683,304,36,1,Rural,N,407
+IP001864,Male,Yes,3+,Not Graduate,No,4931,128,36,,Semiurban,N,239
+IP001865,Male,Yes,1,Graduate,No,6083,330,36,,Urban,Y,550
+IP001868,Male,No,0,Graduate,No,2060,134,36,1,Semiurban,Y,257
+IP001870,Female,No,1,Graduate,No,3481,155,36,1,Semiurban,N,277
+IP001871,Female,No,0,Graduate,No,7200,120,36,1,Rural,Y,230
+IP001872,Male,No,0,Graduate,Yes,5166,128,36,1,Semiurban,Y,239
+IP001875,Male,No,0,Graduate,No,4095,151,36,1,Rural,Y,272
+IP001877,Male,Yes,2,Graduate,No,4708,150,36,1,Semiurban,Y,270
+IP001882,Male,Yes,3+,Graduate,No,4333,160,36,0,Urban,Y,270
+IP001883,Female,No,0,Graduate,,3418,135,36,1,Rural,N,257
+IP001884,Female,No,1,Graduate,No,2876,90,36,1,Urban,Y,120
+IP001888,Female,No,0,Graduate,No,3237,30,36,1,Urban,Y,80
+IP001891,Male,Yes,0,Graduate,No,11146,136,36,1,Urban,Y,257
+IP001892,Male,No,0,Graduate,No,2833,126,36,1,Rural,Y,237
+IP001894,Male,Yes,0,Graduate,No,2620,150,36,1,Semiurban,Y,270
+IP001896,Male,Yes,2,Graduate,No,3900,90,36,1,Semiurban,Y,120
+IP001900,Male,Yes,1,Graduate,No,2750,115,36,1,Semiurban,Y,227
+IP001903,Male,Yes,0,Graduate,No,3993,207,36,1,Semiurban,Y,307
+IP001904,Male,Yes,0,Graduate,No,3103,80,36,1,Urban,Y,160
+IP001907,Male,Yes,0,Graduate,No,14583,436,36,1,Semiurban,Y,557
+IP001908,Female,Yes,0,Not Graduate,No,4100,124,36,,Rural,Y,237
+IP001910,Male,No,1,Not Graduate,Yes,4053,158,36,0,Urban,N,279
+IP001914,Male,Yes,0,Graduate,No,3927,112,36,1,Semiurban,Y,223
+IP001915,Male,Yes,2,Graduate,No,2301,78,18,1,Urban,Y,119
+IP001917,Female,No,0,Graduate,No,1811,54,36,1,Urban,Y,117
+IP001922,Male,Yes,0,Graduate,No,20667,,36,1,Rural,N,
+IP001924,Male,No,0,Graduate,No,3158,89,36,1,Rural,Y,120
+IP001925,Female,No,0,Graduate,Yes,2600,99,3,1,Semiurban,N,132
+IP001926,Male,Yes,0,Graduate,No,3704,120,36,1,Rural,Y,230
+IP001931,Female,No,0,Graduate,No,4124,115,36,1,Semiurban,Y,227
+IP001935,Male,No,0,Graduate,No,9508,187,36,1,Rural,Y,297
+IP001936,Male,Yes,0,Graduate,No,3075,139,36,1,Rural,Y,220
+IP001938,Male,Yes,2,Graduate,No,4400,127,36,0,Semiurban,N,237
+IP001940,Male,Yes,2,Graduate,No,3153,134,36,1,Urban,Y,257
+IP001945,Female,No,,Graduate,No,5417,143,48,0,Urban,N,275
+IP001947,Male,Yes,0,Graduate,No,2383,172,36,1,Semiurban,Y,273
+IP001949,Male,Yes,3+,Graduate,,4416,110,36,1,Urban,Y,220
+IP001953,Male,Yes,1,Graduate,No,6875,200,36,1,Semiurban,Y,300
+IP001954,Female,Yes,1,Graduate,No,4666,135,36,1,Urban,Y,257
+IP001955,Female,No,0,Graduate,No,5000,151,48,1,Rural,N,222
+IP001963,Male,Yes,1,Graduate,No,2014,113,36,1,Urban,N,225
+IP001964,Male,Yes,0,Not Graduate,No,1800,93,36,0,Urban,N,165
+IP001972,Male,Yes,,Not Graduate,No,2875,105,36,1,Semiurban,Y,207
+IP001974,Female,No,0,Graduate,No,5000,132,36,1,Rural,Y,253
+IP001977,Male,Yes,1,Graduate,No,1625,96,36,1,Urban,Y,127
+IP001978,Male,No,0,Graduate,No,4000,140,36,1,Rural,Y,270
+IP001990,Male,No,0,Not Graduate,No,2000,,36,1,Urban,N,
+IP001993,Female,No,0,Graduate,No,3762,135,36,1,Rural,Y,257
+IP001994,Female,No,0,Graduate,No,2400,104,36,0,Urban,N,207
+IP001996,Male,No,0,Graduate,No,20233,480,36,1,Rural,N,790
+IP001998,Male,Yes,2,Not Graduate,No,7667,185,36,,Rural,Y,297
+IP002002,Female,No,0,Graduate,No,2917,84,36,1,Semiurban,Y,137
+IP002004,Male,No,0,Not Graduate,No,2927,111,36,1,Semiurban,Y,222
+IP002006,Female,No,0,Graduate,No,2507,56,36,1,Rural,Y,147
+IP002008,Male,Yes,2,Graduate,Yes,5746,144,84,,Rural,Y,277
+IP002024,,Yes,0,Graduate,No,2473,159,36,1,Rural,N,2720
+IP002031,Male,Yes,1,Not Graduate,No,3399,111,18,1,Urban,Y,222
+IP002035,Male,Yes,2,Graduate,No,3717,120,36,1,Semiurban,Y,230
+IP002036,Male,Yes,0,Graduate,No,2058,88,36,,Urban,Y,146
+IP002043,Female,No,1,Graduate,No,3541,112,36,,Semiurban,Y,223
+IP002050,Male,Yes,1,Graduate,Yes,10000,155,36,1,Rural,N,277
+IP002051,Male,Yes,0,Graduate,No,2400,115,36,1,Semiurban,Y,227
+IP002053,Male,Yes,3+,Graduate,No,4342,124,36,1,Semiurban,Y,237
+IP002054,Male,Yes,2,Not Graduate,No,3601,,36,1,Rural,Y,
+IP002055,Female,No,0,Graduate,No,3166,132,36,,Rural,Y,253
+IP002065,Male,Yes,3+,Graduate,No,15000,300,36,1,Rural,Y,450
+IP002067,Male,Yes,1,Graduate,Yes,8666,376,36,0,Rural,N,507
+IP002068,Male,No,0,Graduate,No,4917,130,36,0,Rural,Y,250
+IP002082,Male,Yes,0,Graduate,Yes,5818,184,36,1,Semiurban,Y,297
+IP002086,Female,Yes,0,Graduate,No,4333,110,36,1,Urban,N,220
+IP002087,Female,No,0,Graduate,No,2500,67,36,1,Urban,Y,101
+IP002097,Male,No,1,Graduate,No,4384,117,36,1,Urban,Y,227
+IP002098,Male,No,0,Graduate,No,2935,98,36,1,Semiurban,Y,149
+IP002100,Male,No,,Graduate,No,2833,71,36,1,Urban,Y,112
+IP002101,Male,Yes,0,Graduate,,63337,490,18,1,Urban,Y,610
+IP002103,,Yes,1,Graduate,Yes,9833,182,18,1,Urban,Y,293
+IP002106,Male,Yes,,Graduate,Yes,5503,70,,1,Semiurban,Y,100
+IP002110,Male,Yes,1,Graduate,,5250,160,36,1,Rural,Y,270
+IP002112,Male,Yes,2,Graduate,Yes,2500,176,36,1,Rural,Y,277
+IP002113,Female,No,3+,Not Graduate,No,1830,,36,0,Urban,N,
+IP002114,Female,No,0,Graduate,No,4160,71,36,1,Semiurban,Y,132
+IP002115,Male,Yes,3+,Not Graduate,No,2647,173,36,1,Rural,N,275
+IP002116,Female,No,0,Graduate,No,2378,46,36,1,Rural,N,107
+IP002119,Male,Yes,1,Not Graduate,No,4554,158,36,1,Urban,Y,279
+IP002126,Male,Yes,3+,Not Graduate,No,3173,74,36,1,Semiurban,Y,127
+IP002128,Male,Yes,2,Graduate,,2583,125,36,1,Rural,Y,207
+IP002129,Male,Yes,0,Graduate,No,2499,160,36,1,Semiurban,Y,210
+IP002130,Male,Yes,,Not Graduate,No,3523,152,36,0,Rural,N,273
+IP002131,Male,Yes,2,Not Graduate,No,3083,126,36,1,Urban,Y,237
+IP002137,Male,Yes,0,Graduate,No,6333,259,36,,Semiurban,Y,372
+IP002138,Male,Yes,0,Graduate,No,2625,187,36,1,Rural,Y,237
+IP002139,Male,Yes,0,Graduate,No,9083,228,36,1,Semiurban,Y,319
+IP002140,Male,No,0,Graduate,No,8750,308,36,1,Rural,N,449
+IP002141,Male,Yes,3+,Graduate,No,2666,95,36,1,Rural,Y,127
+IP002142,Female,Yes,0,Graduate,Yes,5500,105,36,0,Rural,N,207
+IP002143,Female,Yes,0,Graduate,No,2423,130,36,1,Semiurban,Y,200
+IP002144,Female,No,,Graduate,No,3813,116,18,1,Urban,Y,207
+IP002149,Male,Yes,2,Graduate,No,8333,165,36,1,Rural,Y,247
+IP002151,Male,Yes,1,Graduate,No,3875,67,36,1,Urban,N,127
+IP002158,Male,Yes,0,Not Graduate,No,3000,100,48,0,Urban,N,120
+IP002160,Male,Yes,3+,Graduate,No,5167,200,36,1,Semiurban,Y,300
+IP002161,Female,No,1,Graduate,No,4723,81,36,1,Semiurban,N,132
+IP002170,Male,Yes,2,Graduate,No,5000,236,36,1,Semiurban,Y,357
+IP002175,Male,Yes,0,Graduate,No,4750,130,36,1,Urban,Y,210
+IP002178,Male,Yes,0,Graduate,No,3013,95,3,,Urban,Y,127
+IP002180,Male,No,0,Graduate,Yes,6822,141,36,1,Rural,Y,272
+IP002181,Male,No,0,Not Graduate,No,6216,133,36,1,Rural,N,255
+IP002187,Male,No,0,Graduate,No,2500,96,48,1,Semiurban,N,207
+IP002188,Male,No,0,Graduate,No,5124,124,,0,Rural,N,237
+IP002190,Male,Yes,1,Graduate,No,6325,175,36,1,Semiurban,Y,277
+IP002191,Male,Yes,0,Graduate,No,19730,570,36,1,Rural,N,660
+IP002194,Female,No,0,Graduate,Yes,15759,55,36,1,Semiurban,Y,107
+IP002197,Male,Yes,2,Graduate,No,5185,155,36,1,Semiurban,Y,217
+IP002201,Male,Yes,2,Graduate,Yes,9323,380,3,1,Rural,Y,490
+IP002205,Male,No,1,Graduate,No,3062,111,18,0,Urban,N,222
+IP002209,Female,No,0,Graduate,,2764,110,36,1,Urban,Y,220
+IP002211,Male,Yes,0,Graduate,No,4817,120,18,1,Urban,Y,230
+IP002219,Male,Yes,3+,Graduate,No,8750,130,36,1,Rural,Y,250
+IP002223,Male,Yes,0,Graduate,No,4310,130,36,,Semiurban,Y,250
+IP002224,Male,No,0,Graduate,No,3069,71,48,1,Urban,N,172
+IP002225,Male,Yes,2,Graduate,No,5391,130,36,1,Urban,Y,250
+IP002226,Male,Yes,0,Graduate,,3333,128,36,1,Semiurban,Y,239
+IP002229,Male,No,0,Graduate,No,5941,296,36,1,Semiurban,Y,347
+IP002231,Female,No,0,Graduate,No,6000,156,36,1,Urban,Y,257
+IP002234,Male,No,0,Graduate,Yes,7167,128,36,1,Urban,Y,239
+IP002236,Male,Yes,2,Graduate,No,4566,100,36,1,Urban,N,190
+IP002237,Male,No,1,Graduate,,3667,113,18,1,Urban,Y,225
+IP002239,Male,No,0,Not Graduate,No,2346,132,36,1,Semiurban,Y,253
+IP002243,Male,Yes,0,Not Graduate,No,3010,,36,0,Urban,N,
+IP002244,Male,Yes,0,Graduate,No,2333,136,36,1,Urban,Y,257
+IP002250,Male,Yes,0,Graduate,No,5488,125,36,1,Rural,Y,237
+IP002255,Male,No,3+,Graduate,No,9167,185,36,1,Rural,Y,297
+IP002262,Male,Yes,3+,Graduate,No,9504,275,36,1,Rural,Y,377
+IP002263,Male,Yes,0,Graduate,No,2583,120,36,,Urban,Y,230
+IP002265,Male,Yes,2,Not Graduate,No,1993,113,18,1,Semiurban,Y,225
+IP002266,Male,Yes,2,Graduate,No,3100,113,36,1,Urban,Y,225
+IP002272,Male,Yes,2,Graduate,No,3276,135,36,,Semiurban,Y,257
+IP002277,Female,No,0,Graduate,No,3180,71,36,0,Urban,N,133
+IP002281,Male,Yes,0,Graduate,No,3033,95,36,1,Urban,Y,127
+IP002284,Male,No,0,Not Graduate,No,3902,109,36,1,Rural,Y,200
+IP002287,Female,No,0,Graduate,No,1500,103,36,0,Semiurban,N,205
+IP002288,Male,Yes,2,Not Graduate,No,2889,45,18,0,Urban,N,87
+IP002296,Male,No,0,Not Graduate,No,2755,65,3,1,Rural,N,68
+IP002297,Male,No,0,Graduate,No,2500,103,36,1,Semiurban,Y,175
+IP002300,Female,No,0,Not Graduate,No,1963,53,36,1,Semiurban,Y,115
+IP002301,Female,No,0,Graduate,Yes,7441,194,36,1,Rural,N,287
+IP002305,Female,No,0,Graduate,No,4547,115,36,1,Semiurban,Y,227
+IP002308,Male,Yes,0,Not Graduate,No,2167,115,36,1,Urban,Y,227
+IP002314,Female,No,0,Not Graduate,No,2213,66,36,1,Rural,Y,107
+IP002315,Male,Yes,1,Graduate,No,8300,152,3,0,Semiurban,N,160
+IP002317,Male,Yes,3+,Graduate,No,81000,360,36,0,Rural,N,470
+IP002318,Female,No,1,Not Graduate,Yes,3867,62,36,1,Semiurban,N,123
+IP002319,Male,Yes,0,Graduate,,6256,160,36,,Urban,Y,270
+IP002328,Male,Yes,0,Not Graduate,No,6096,218,36,0,Rural,N,319
+IP002332,Male,Yes,0,Not Graduate,No,2253,110,36,1,Rural,Y,210
+IP002335,Female,Yes,0,Not Graduate,No,2149,178,36,0,Semiurban,N,259
+IP002337,Female,No,0,Graduate,No,2995,60,36,1,Urban,Y,120
+IP002341,Female,No,1,Graduate,No,2600,160,36,1,Urban,N,270
+IP002342,Male,Yes,2,Graduate,Yes,1600,239,36,1,Urban,N,320
+IP002345,Male,Yes,0,Graduate,No,1025,112,36,1,Rural,Y,223
+IP002347,Male,Yes,0,Graduate,No,3246,138,36,1,Semiurban,Y,259
+IP002348,Male,Yes,0,Graduate,No,5829,138,36,1,Rural,Y,259
+IP002357,Female,No,0,Not Graduate,No,2720,80,,0,Urban,N,110
+IP002361,Male,Yes,0,Graduate,No,1820,100,36,1,Urban,Y,120
+IP002362,Male,Yes,1,Graduate,No,7250,110,,0,Urban,N,220
+IP002364,Male,Yes,0,Graduate,No,14880,96,36,1,Semiurban,Y,127
+IP002366,Male,Yes,0,Graduate,No,2666,121,36,1,Rural,Y,212
+IP002367,Female,No,1,Not Graduate,No,4606,81,36,1,Rural,N,132
+IP002368,Male,Yes,2,Graduate,No,5935,133,36,1,Semiurban,Y,255
+IP002369,Male,Yes,0,Graduate,No,2920,87,36,1,Rural,Y,127
+IP002370,Male,No,0,Not Graduate,No,2717,60,18,1,Urban,Y,70
+IP002377,Female,No,1,Graduate,Yes,8624,150,36,1,Semiurban,Y,270
+IP002379,Male,No,0,Graduate,No,6500,105,36,0,Rural,N,207
+IP002386,Male,No,0,Graduate,,12876,405,36,1,Semiurban,Y,681
+IP002387,Male,Yes,0,Graduate,No,2425,143,36,1,Semiurban,Y,275
+IP002390,Male,No,0,Graduate,No,3750,100,36,1,Urban,Y,220
+IP002393,Female,,,Graduate,No,10047,,24,1,Semiurban,Y,
+IP002398,Male,No,0,Graduate,No,1926,50,36,1,Semiurban,Y,130
+IP002401,Male,Yes,0,Graduate,No,2213,,36,1,Urban,Y,
+IP002403,Male,No,0,Graduate,Yes,10416,187,36,0,Urban,N,297
+IP002407,Female,Yes,0,Not Graduate,Yes,7142,138,36,1,Rural,Y,239
+IP002408,Male,No,0,Graduate,No,3660,187,36,1,Semiurban,Y,297
+IP002409,Male,Yes,0,Graduate,No,7901,180,36,1,Rural,Y,290
+IP002418,Male,No,3+,Not Graduate,No,4707,148,36,1,Semiurban,Y,239
+IP002422,Male,No,1,Graduate,No,37719,152,36,1,Semiurban,Y,263
+IP002424,Male,Yes,0,Graduate,No,7333,175,3,,Rural,Y,277
+IP002429,Male,Yes,1,Graduate,Yes,3466,130,36,1,Rural,Y,250
+IP002434,Male,Yes,2,Not Graduate,No,4652,110,36,1,Rural,Y,220
+IP002435,Male,Yes,0,Graduate,,3539,55,36,1,Rural,N,117
+IP002443,Male,Yes,2,Graduate,No,3340,150,36,0,Rural,N,260
+IP002444,Male,No,1,Not Graduate,Yes,2769,190,36,,Semiurban,N,250
+IP002446,Male,Yes,2,Not Graduate,No,2309,125,36,0,Rural,N,237
+IP002447,Male,Yes,2,Not Graduate,No,1958,60,3,,Urban,Y,60
+IP002448,Male,Yes,0,Graduate,No,3948,149,36,0,Rural,N,270
+IP002449,Male,Yes,0,Graduate,No,2483,90,18,0,Rural,Y,210
+IP002453,Male,No,0,Graduate,Yes,7085,84,36,1,Semiurban,Y,97
+IP002455,Male,Yes,2,Graduate,No,3859,96,36,1,Semiurban,Y,207
+IP002459,Male,Yes,0,Graduate,No,4301,118,36,1,Urban,Y,229
+IP002467,Male,Yes,0,Graduate,No,3708,173,36,1,Urban,N,275
+IP002472,Male,No,2,Graduate,No,4354,136,36,1,Rural,Y,257
+IP002473,Male,Yes,0,Graduate,No,8334,160,36,1,Semiurban,N,270
+IP002478,,Yes,0,Graduate,Yes,2083,160,36,,Semiurban,Y,270
+IP002484,Male,Yes,3+,Graduate,No,7740,128,18,1,Urban,Y,239
+IP002487,Male,Yes,0,Graduate,No,3015,153,36,1,Rural,Y,275
+IP002489,Female,No,1,Not Graduate,,5191,132,36,1,Semiurban,Y,253
+IP002493,Male,No,0,Graduate,No,4166,98,36,0,Semiurban,N,209
+IP002494,Male,No,0,Graduate,No,6000,140,36,1,Rural,Y,270
+IP002500,Male,Yes,3+,Not Graduate,No,2947,70,18,0,Urban,N,70
+IP002501,,Yes,0,Graduate,No,16692,110,36,1,Semiurban,Y,220
+IP002502,Female,Yes,2,Not Graduate,,210,98,36,1,Semiurban,Y,209
+IP002505,Male,Yes,0,Graduate,No,4333,110,36,1,Urban,N,220
+IP002515,Male,Yes,1,Graduate,Yes,3450,162,36,1,Semiurban,Y,273
+IP002517,Male,Yes,1,Not Graduate,No,2653,113,18,0,Rural,N,225
+IP002519,Male,Yes,3+,Graduate,No,4691,100,36,1,Semiurban,Y,120
+IP002522,Female,No,0,Graduate,Yes,2500,93,36,,Urban,Y,125
+IP002524,Male,No,2,Graduate,No,5532,162,36,1,Rural,Y,273
+IP002527,Male,Yes,2,Graduate,Yes,16525,150,36,1,Rural,Y,270
+IP002529,Male,Yes,2,Graduate,No,6700,230,3,1,Semiurban,Y,350
+IP002530,,Yes,2,Graduate,No,2873,132,36,0,Semiurban,N,253
+IP002531,Male,Yes,1,Graduate,Yes,16667,86,36,1,Semiurban,Y,157
+IP002533,Male,Yes,2,Graduate,No,2947,,36,1,Urban,N,
+IP002534,Female,No,0,Not Graduate,No,4350,154,36,1,Rural,Y,277
+IP002536,Male,Yes,3+,Not Graduate,No,3095,113,36,1,Rural,Y,225
+IP002537,Male,Yes,0,Graduate,No,2083,128,36,1,Semiurban,Y,239
+IP002541,Male,Yes,0,Graduate,No,10833,234,36,1,Semiurban,Y,357
+IP002543,Male,Yes,2,Graduate,No,8333,246,36,1,Semiurban,Y,377
+IP002544,Male,Yes,1,Not Graduate,No,1958,131,36,1,Rural,Y,252
+IP002545,Male,No,2,Graduate,No,3547,80,36,0,Rural,N,130
+IP002547,Male,Yes,1,Graduate,No,18333,500,36,1,Urban,N,630
+IP002555,Male,Yes,2,Graduate,Yes,4583,160,36,1,Semiurban,Y,240
+IP002556,Male,No,0,Graduate,No,2435,75,36,1,Urban,N,130
+IP002560,Male,No,0,Not Graduate,No,2699,96,36,,Semiurban,Y,207
+IP002562,Male,Yes,1,Not Graduate,No,5333,186,36,,Urban,Y,297
+IP002571,Male,No,0,Not Graduate,No,3691,110,36,1,Rural,Y,220
+IP002582,Female,No,0,Not Graduate,Yes,17263,225,36,1,Semiurban,Y,337
+IP002585,Male,Yes,0,Graduate,No,3597,119,36,0,Rural,N,240
+IP002586,Female,Yes,1,Graduate,No,3326,105,84,1,Semiurban,Y,207
+IP002587,Male,Yes,0,Not Graduate,No,2600,107,36,1,Rural,Y,207
+IP002588,Male,Yes,0,Graduate,No,4625,111,12,,Urban,Y,222
+IP002600,Male,Yes,1,Graduate,Yes,2895,95,36,1,Semiurban,Y,127
+IP002602,Male,No,0,Graduate,No,6283,209,36,0,Rural,N,320
+IP002603,Female,No,0,Graduate,No,645,113,48,1,Rural,Y,225
+IP002606,Female,No,0,Graduate,No,3159,100,36,1,Semiurban,Y,220
+IP002615,Male,Yes,2,Graduate,No,4865,208,36,1,Semiurban,Y,309
+IP002618,Male,Yes,1,Not Graduate,No,4050,138,36,,Rural,N,259
+IP002619,Male,Yes,0,Not Graduate,No,3814,124,3,1,Semiurban,Y,237
+IP002622,Male,Yes,2,Graduate,No,3510,243,36,1,Rural,Y,375
+IP002624,Male,Yes,0,Graduate,No,20833,480,36,,Urban,Y,590
+IP002625,,No,0,Graduate,No,3583,96,36,1,Urban,N,127
+IP002626,Male,Yes,0,Graduate,Yes,2479,188,36,1,Urban,Y,209
+IP002634,Female,No,1,Graduate,No,13262,40,36,1,Urban,Y,90
+IP002637,Male,No,0,Not Graduate,No,3598,100,36,1,Rural,N,220
+IP002640,Male,Yes,1,Graduate,No,6065,250,36,1,Semiurban,Y,360
+IP002643,Male,Yes,2,Graduate,No,3283,148,36,1,Urban,Y,279
+IP002648,Male,Yes,0,Graduate,No,2130,70,18,1,Semiurban,N,70
+IP002652,Male,No,0,Graduate,No,5815,311,36,1,Rural,N,522
+IP002659,Male,Yes,3+,Graduate,No,3466,150,36,1,Rural,Y,260
+IP002670,Female,Yes,2,Graduate,No,2031,113,48,1,Semiurban,Y,215
+IP002682,Male,Yes,,Not Graduate,No,3074,123,36,0,Semiurban,N,215
+IP002683,Male,No,0,Graduate,No,4683,185,36,1,Semiurban,N,267
+IP002684,Female,No,0,Not Graduate,No,3400,95,36,1,Rural,N,127
+IP002689,Male,Yes,2,Not Graduate,No,2192,45,36,1,Semiurban,Y,97
+IP002690,Male,No,0,Graduate,No,2500,55,36,1,Semiurban,Y,107
+IP002692,Male,Yes,3+,Graduate,Yes,5677,100,36,1,Rural,Y,120
+IP002693,Male,Yes,2,Graduate,Yes,7948,480,36,1,Rural,Y,790
+IP002697,Male,No,0,Graduate,No,4680,,36,1,Semiurban,N,
+IP002699,Male,Yes,2,Graduate,Yes,17500,400,36,1,Rural,Y,620
+IP002705,Male,Yes,0,Graduate,No,3775,110,36,1,Semiurban,Y,200
+IP002706,Male,Yes,1,Not Graduate,No,5285,161,36,0,Semiurban,Y,232
+IP002714,Male,No,1,Not Graduate,No,2679,94,36,1,Semiurban,Y,127
+IP002716,Male,No,0,Not Graduate,No,6783,130,36,1,Semiurban,Y,210
+IP002717,Male,Yes,0,Graduate,No,1025,216,36,,Rural,Y,327
+IP002720,Male,Yes,3+,Graduate,No,4281,100,36,1,Urban,Y,220
+IP002723,Male,No,2,Graduate,No,3588,110,36,0,Rural,N,220
+IP002729,Male,No,1,Graduate,No,11250,196,36,,Semiurban,N,297
+IP002731,Female,No,0,Not Graduate,Yes,18165,125,36,1,Urban,Y,237
+IP002732,Male,No,0,Not Graduate,,2550,126,36,1,Rural,Y,237
+IP002734,Male,Yes,0,Graduate,No,6133,324,36,1,Urban,Y,487
+IP002738,Male,No,2,Graduate,No,3617,107,36,1,Semiurban,Y,207
+IP002739,Male,Yes,0,Not Graduate,No,2917,66,36,1,Rural,N,127
+IP002740,Male,Yes,3+,Graduate,No,6417,157,18,1,Rural,Y,237
+IP002741,Female,Yes,1,Graduate,No,4608,140,18,1,Semiurban,Y,220
+IP002743,Female,No,0,Graduate,No,2138,99,36,0,Semiurban,N,140
+IP002753,Female,No,1,Graduate,,3652,95,36,1,Semiurban,Y,127
+IP002755,Male,Yes,1,Not Graduate,No,2239,128,36,1,Urban,Y,209
+IP002757,Female,Yes,0,Not Graduate,No,3017,102,36,,Semiurban,Y,203
+IP002767,Male,Yes,0,Graduate,No,2768,155,36,1,Rural,Y,247
+IP002768,Male,No,0,Not Graduate,No,3358,80,36,1,Semiurban,N,150
+IP002772,Male,No,0,Graduate,No,2526,145,36,1,Rural,Y,277
+IP002776,Female,No,0,Graduate,No,5000,103,36,0,Semiurban,N,205
+IP002777,Male,Yes,0,Graduate,No,2785,110,36,1,Rural,Y,220
+IP002778,Male,Yes,2,Graduate,Yes,6633,,36,0,Rural,N,
+IP002784,Male,Yes,1,Not Graduate,No,2492,,36,1,Rural,Y,
+IP002785,Male,Yes,1,Graduate,No,3333,158,36,1,Urban,Y,279
+IP002788,Male,Yes,0,Not Graduate,No,2454,181,36,0,Urban,N,252
+IP002789,Male,Yes,0,Graduate,No,3593,132,18,0,Rural,N,223
+IP002792,Male,Yes,1,Graduate,No,5468,26,36,1,Semiurban,Y,57
+IP002794,Female,No,0,Graduate,No,2667,84,36,,Urban,Y,157
+IP002795,Male,Yes,3+,Graduate,Yes,10139,260,36,1,Semiurban,Y,370
+IP002798,Male,Yes,0,Graduate,No,3887,162,36,1,Semiurban,Y,273
+IP002804,Female,Yes,0,Graduate,No,4180,182,36,1,Semiurban,Y,293
+IP002807,Male,Yes,2,Not Graduate,No,3675,108,36,1,Semiurban,Y,209
+IP002813,Female,Yes,1,Graduate,Yes,19484,600,36,1,Semiurban,Y,700
+IP002820,Male,Yes,0,Graduate,No,5923,211,36,1,Rural,Y,322
+IP002821,Male,No,0,Not Graduate,Yes,5800,132,36,1,Semiurban,Y,253
+IP002832,Male,Yes,2,Graduate,No,8799,258,36,0,Urban,N,379
+IP002833,Male,Yes,0,Not Graduate,No,4467,120,36,,Rural,Y,230
+IP002836,Male,No,0,Graduate,No,3333,70,36,1,Urban,Y,70
+IP002837,Male,Yes,3+,Graduate,No,3400,123,36,0,Rural,N,235
+IP002840,Female,No,0,Graduate,No,2378,9,36,1,Urban,N,20
+IP002841,Male,Yes,0,Graduate,No,3166,104,36,0,Urban,N,200
+IP002842,Male,Yes,1,Graduate,No,3417,186,36,1,Urban,Y,247
+IP002847,Male,Yes,,Graduate,No,5116,165,36,0,Urban,N,267
+IP002855,Male,Yes,2,Graduate,No,16666,275,36,1,Urban,Y,357
+IP002862,Male,Yes,2,Not Graduate,No,6125,187,48,1,Semiurban,N,277
+IP002863,Male,Yes,3+,Graduate,No,6406,150,36,1,Semiurban,N,250
+IP002868,Male,Yes,2,Graduate,No,3159,108,84,1,Urban,Y,209
+IP002872,,Yes,0,Graduate,No,3087,136,36,0,Semiurban,N,237
+IP002874,Male,No,0,Graduate,No,3229,110,36,1,Urban,Y,220
+IP002877,Male,Yes,1,Graduate,No,1782,107,36,1,Rural,Y,207
+IP002888,Male,No,0,Graduate,,3182,161,36,1,Urban,Y,272
+IP002892,Male,Yes,2,Graduate,No,6540,205,36,1,Semiurban,Y,297
+IP002893,Male,No,0,Graduate,No,1836,90,36,1,Urban,N,120
+IP002894,Female,Yes,0,Graduate,No,3166,36,36,1,Semiurban,Y,77
+IP002898,Male,Yes,1,Graduate,No,1880,61,36,,Rural,N,142
+IP002911,Male,Yes,1,Graduate,No,2787,146,36,0,Rural,N,277
+IP002912,Male,Yes,1,Graduate,No,4283,172,84,1,Rural,N,273
+IP002916,Male,Yes,0,Graduate,No,2297,104,36,1,Urban,Y,207
+IP002917,Female,No,0,Not Graduate,No,2165,70,36,1,Semiurban,Y,150
+IP002925,,No,0,Graduate,No,4750,94,36,1,Semiurban,Y,127
+IP002926,Male,Yes,2,Graduate,Yes,2726,106,36,0,Semiurban,N,207
+IP002928,Male,Yes,0,Graduate,No,3000,56,18,1,Semiurban,Y,77
+IP002931,Male,Yes,2,Graduate,Yes,6000,205,24,1,Semiurban,N,307
+IP002933,,No,3+,Graduate,Yes,9357,292,36,1,Semiurban,Y,323
+IP002936,Male,Yes,0,Graduate,No,3859,142,18,1,Rural,Y,273
+IP002938,Male,Yes,0,Graduate,Yes,16120,260,36,1,Urban,Y,370
+IP002940,Male,No,0,Not Graduate,No,3833,110,36,1,Rural,Y,220
+IP002941,Male,Yes,2,Not Graduate,Yes,6383,187,36,1,Rural,N,297
+IP002943,Male,No,,Graduate,No,2987,88,36,0,Semiurban,N,130
+IP002945,Male,Yes,0,Graduate,Yes,9963,180,36,1,Rural,Y,290
+IP002948,Male,Yes,2,Graduate,No,5780,192,36,1,Urban,Y,303
+IP002949,Female,No,3+,Graduate,,416,350,18,,Urban,N,520
+IP002950,Male,Yes,0,Not Graduate,,2894,155,36,1,Rural,Y,277
+IP002953,Male,Yes,3+,Graduate,No,5703,128,36,1,Urban,Y,239
+IP002958,Male,No,0,Graduate,No,3676,172,36,1,Rural,Y,273
+IP002959,Female,Yes,1,Graduate,No,12000,496,36,1,Semiurban,Y,607
+IP002960,Male,Yes,0,Not Graduate,No,2400,,18,1,Urban,N,
+IP002961,Male,Yes,1,Graduate,No,3400,173,36,1,Semiurban,Y,275
+IP002964,Male,Yes,2,Not Graduate,No,3987,157,36,1,Rural,Y,277
+IP002974,Male,Yes,0,Graduate,No,3232,108,36,1,Rural,Y,209
+IP002978,Female,No,0,Graduate,No,2900,71,36,1,Rural,Y,182
+IP002979,Male,Yes,3+,Graduate,No,4106,40,18,1,Rural,Y,70
+IP002983,Male,Yes,1,Graduate,No,8072,253,36,1,Urban,Y,375
+IP002984,Male,Yes,2,Graduate,No,7583,187,36,1,Urban,Y,297
+IP002990,Female,No,0,Graduate,Yes,4583,133,36,0,Semiurban,N,255
